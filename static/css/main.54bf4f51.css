@@ -1,0 +1,2 @@
+.pageNumbers{display:flex;list-style:none}.pageNumbers,.pageNumbers li{align-items:center;justify-content:center}.pageNumbers li{background-color:#bbb8b8;background-color:128ms ease-out;border:1px solid #bbb8b8;border-radius:50px;cursor:pointer;height:2.5rem;margin:0 5px;padding:10px;text-align:center;transition:color 128ms ease-out;width:2.5rem}.pageNumbers li:hover{background:#c774bb;border-color:#c774bb}.pageNumbers li.active{background-color:#c774bb;border-color:#c774bb}
+/*# sourceMappingURL=main.54bf4f51.css.map*/
