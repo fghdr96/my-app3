@@ -1,6 +1,5 @@
 import {BrowserRouter,Routes,Route, Navigate} from 'react-router-dom'
 import Home from './pages/home'
-import NotFound from './pages/notFound'
 import Navbar from './layout/Navbar'
 import UsersList from './pages/users'
 import UserDetails from './pages/users/user'
